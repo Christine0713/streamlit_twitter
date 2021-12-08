@@ -1,1 +1,2 @@
-111111
+pip install streamlit
+streamlit hello
