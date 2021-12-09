@@ -3,6 +3,7 @@ import re
 
 import pandas as pd
 import streamlit as st
+import flair
 from flair.data import Sentence
 from flair.models import TextClassifier
 from twitterscraper import query_tweets
